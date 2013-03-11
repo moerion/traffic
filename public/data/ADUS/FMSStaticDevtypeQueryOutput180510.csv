@@ -1,0 +1,16 @@
+Record Start Date,Record End Date,Source ID,Source ID Description,Type,Name,Connection Point,Polling Period,Summary Period,Timeout Period,DB Periodic Update,DB Summary Update
+08/02/2007 10:25,,1,FAST FMS,3,CCTV,Terminal Server,33,900,7200,33,900
+08/02/2007 10:25,,1,FAST FMS,6,Video Quad/Combiner,Terminal Server,33,900,10000,33,900
+08/02/2007 10:25,,1,FAST FMS,7,Video Switch,Terminal Server,33,900,14679,33,900
+08/02/2007 10:25,,1,FAST FMS,8,Monitor,Terminal Server,33,900,10000,33,900
+08/02/2007 10:25,,1,FAST FMS,9,Video Processor,Terminal Server,33,900,10000,33,900
+08/02/2007 10:25,,1,FAST FMS,10,Video Converter,Terminal Server,33,900,10000,33,900
+08/02/2007 10:25,,1,FAST FMS,11,Graphics Generator,Terminal Server,33,900,10000,33,900
+08/02/2007 10:25,,1,FAST FMS,12,VID,Terminal Server,33,900,10000,33,900
+08/02/2007 10:25,,1,FAST FMS,13,Node Processor,Terminal Server,33,900,10000,33,900
+08/02/2007 10:25,,1,FAST FMS,14,Clock,Terminal Server,33,900,10000,33,900
+08/02/2007 10:25,,1,FAST FMS,15,HAR,Terminal Server,33,900,10000,33,900
+07/31/2010 18:15,,1,FAST FMS,5,Ramp Meter,Node Processor,60,900,15000,33,900
+07/31/2010 18:16,,1,FAST FMS,2,Trailblazer Sign,KTD,300,900,15000,33,900
+05/23/2011 19:11,,1,FAST FMS,4,Detector Station,Node Processor,60,900,6500,33,900
+08/31/2011 10:22,,1,FAST FMS,1,DMS,Terminal Server,300,900,4000,33,900

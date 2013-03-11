@@ -1,0 +1,358 @@
+Record Start Date,Record End Date,Source ID,Source ID Description,ID,Type Name,Asset ID,Location,Owner,Maintenance,Jurisdiction
+08/02/2007 10:25,,1,FAST FMS,2,Trailblazer (Pole Mounted),T024,WB Off-Ramp to Decatur,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,122,Trailblazer (Pole Mounted),T025,EB Off-Ramp to Decatur,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,124,Trailblazer (Pole Mounted),T026,SB Decatur at I-215,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,15,Trailblazer (Pole Mounted),T001,NB I-15 between freeway and Russell Off-Ramp,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,17,Detector or Ramp Meter- "A",15003616,SB On-Ramp from Russell,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,20,Trailblazer (Pole Mounted),T002,SB Off-Ramp to Russell,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,25,Trailblazer (Pole Mounted),T003,NB I-15 between freeway and Tropicana Off-ramp,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,26,CCTV- "C" (Pole Mounted),15003737,NB Tropicana Off-Ramp at Tropicana,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,28,Trailblazer (Pole Mounted),T004,SB Off-Ramp to Tropicana (Before Split),NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,37,Trailblazer (Pole Mounted),T005,NB Off-Ramp to Flamingo,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,38,Trailblazer (Pole Mounted),T006,SB Off-Ramp to Flamingo WB,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,123,Trailblazer (Pole Mounted),T007,NB Off-Ramp to Spring Mountain WB,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,42,Detector or Ramp Meter- "A",15003905,SB I-15 between freeway and Spring Mountain On-Ramp,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,46,Trailblazer (Pole Mounted),T008,SB Off-Ramp to Spring Mountain WB,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,52,Detector or Ramp Meter- "A",15103996,NB I-15 between Desert Inn and Sahara,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,56,Trailblazer (Pole Mounted),T009,SB Off-Ramp to Sahara,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,61,Trailblazer (Pole Mounted),T010,SB Off-Ramp to Sahara (Before 2nd Split),NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,68,Trailblazer (Pole Mounted),T011,NB Off-Ramp to Charleston EB,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,69,Trailblazer (Pole Mounted),T012,NB Off-Ramp to Charleston WB,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,70,Trailblazer (Pole Mounted),T077,Martin Luther King between I-15 SB Interchange and Charleston,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,73,Trailblazer (Pole Mounted),T013,SB Off-Ramp to Charleston,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,82,Trailblazer (Pole Mounted),T014,NB Off-Ramp to D Street/Washington,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,83,Detector or Ramp Meter- "A",15104335,NB I-15 between freeway and D Street/Washington Off-Ramp,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,84,Trailblazer (Pole Mounted),T015,NB connector road between D Street and Washington,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,86,Trailblazer (Pole Mounted),T016,SB Off-Ramp to Washington/D Street,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,87,Detector or Ramp Meter- "A",15104377,NB I-15 between freeway and D/Washington On-Ramp,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,93,Trailblazer (Pole Mounted),T017,SB Off-Ramp to Lake Mead,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,121,Detector or Ramp Meter- "A",15104264,On left side of US-95 SB to I-15 NB ramp,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,103,Trailblazer (Pole Mounted),T019,NB Eastern,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,104,Detector or Ramp Meter- "A",515007349,SB Off-Ramp to Eastern,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,105,Trailblazer (Pole Mounted),T020,SB Off-Ramp to Eastern,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,106,Trailblazer (Pole Mounted),T021,SB Eastern,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,112,Trailblazer (Pole Mounted),T022,NB Off-Ramp to Las Vegas Boulevard,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,188,Trailblazer (Pole Mounted),T087,WB Charleston at Fremont,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,189,Trailblazer (Pole Mounted),T088,NB Fremont at Charleston,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,190,Trailblazer (Pole Mounted),T089,EB Charleston at Fremont,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,191,Trailblazer (Pole Mounted),T090,NB Boulder Highway at Sahara,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,192,Trailblazer (Pole Mounted),T091,I-515 NB Off-Ramp to Boulder Highway,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,193,Trailblazer (Pole Mounted),T092,WB Fremont at Eastern,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,194,Trailblazer (Pole Mounted),T093,SB Eastern at Fremont,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,195,Trailblazer (Pole Mounted),T094,WB Washington at Eastern,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,196,Trailblazer (Pole Mounted),T095,NB Eastern at Washington,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,197,Trailblazer (Pole Mounted),T096,EB Washington at Eastern,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,198,Trailblazer (Pole Mounted),T097,SB Eastern at Washington,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,199,Trailblazer (Pole Mounted),T098,WB Washington at Las Vegas Boulevard,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,200,Trailblazer (Pole Mounted),T099,NB Las Vegas Boulevard at Washington,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,201,Trailblazer (Pole Mounted),T100,EB Washington at Las Vegas Boulevard,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,202,Trailblazer (Pole Mounted),T101,SB Las Vegas Boulevard at Washington,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,203,Trailblazer (Pole Mounted),T102,NB Las Vegas Boulevard at Main Street,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,204,Trailblazer (Pole Mounted),T103,SB Las Vegas Boulevard at Main Street,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,205,Trailblazer (Pole Mounted),T104,WB Lake Mead Boulevard at Las Vegas Boulevard,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,206,Trailblazer (Pole Mounted),T105,NB Las Vegas Boulevard at Lake Mead Boulevard,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,207,Trailblazer (Pole Mounted),T106,EB Lake Mead Boulevard at Las Vegas Boulevard,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,208,Trailblazer (Pole Mounted),T107,SB Las Vegas Boulevard at Lake Mead Boulevard,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,209,Trailblazer (Pole Mounted),T108,WB Lake Mead Boulevard at Civic Center,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,210,Trailblazer (Pole Mounted),T109,NB Civic Center at Lake Mead Boulevard,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,211,Trailblazer (Pole Mounted),T110,EB Lake Mead Boulevard at Civic Center,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,212,Trailblazer (Pole Mounted),T111,SB Civic Center at Lake Mead Boulevard,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,213,Trailblazer (Pole Mounted),T112,WB Lake Mead Boulevard at Martin Luther King,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,214,Trailblazer (Pole Mounted),T113,NB Martin Luther King at Lake Mead Boulevard,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,215,Trailblazer (Pole Mounted),T114,EB Lake Mead Boulevard at Martin Luther King,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,216,Trailblazer (Pole Mounted),T115,SB Martin Luther King at Lake Mead Boulevard,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,220,Trailblazer (Pole Mounted),T119,SB Martin Luther King at Washington,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,221,Trailblazer (Pole Mounted),T120,US-95 NB Off-Ramp to Martin Luther King,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,222,Trailblazer (Pole Mounted),T121,SB Martin Luther King at US-95,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,267,Detector or Ramp Meter- "A",TBS135,Spring Mountain Ave. & Valley View Blvd.,FAST AMS,NDOT,CITY OF LAS VEGAS
+08/02/2007 10:25,,1,FAST FMS,248,Detector or Ramp Meter- "A",015103852,On-Ramp, Flamingo Road to  I-15 NB,CITY OF LAS VEGAS,FAST AMS,CITY OF LAS VEGAS
+08/02/2007 10:25,,1,FAST FMS,275,Detector or Ramp Meter- "A",DMS,US-95 SB, South of Paradise Hills Dr. (south of US95/I215 interchange),FAST FMS,FAST FMS,FAST FMS
+08/02/2007 10:25,,1,FAST FMS,268,Detector or Ramp Meter- "A",TBS136,WB Lake Mead at I-15 SB Off-Ramp,FAST FMS,FAST FMS,FAST FMS
+08/02/2007 10:25,,1,FAST FMS,218,Detector or Ramp Meter- "A",TBS121,NB Martin Luther King at Washington,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/02/2007 10:25,,1,FAST FMS,217,Detector or Ramp Meter- "A",TBS120,WB Washington at Martin Luther King,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/02/2007 10:25,,1,FAST FMS,219,Detector or Ramp Meter- "A",TBS122,EB Washington at Martin Luther King,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/02/2007 10:25,,1,FAST FMS,91,Detector or Ramp Meter- "A",015004456,On-Ramp, Lake Mead Boulevard to  I-15 SB,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/02/2007 10:25,,1,FAST FMS,115,Detector or Ramp Meter- "A",515007479,Off-Ramp, I-515 SB to  Las Vegas Boulevard,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/02/2007 10:25,,1,FAST FMS,89,Detector or Ramp Meter- "A",015104399,I-15 NB  between I-15 NB Washington/D-St On-Ramp and I-15 NB  Lake Mead EB Off-Ramp,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/02/2007 10:25,,1,FAST FMS,114,Detector or Ramp Meter- "A",515107478,On-Ramp, Las Vegas Boulevard to  I-515 NB,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/02/2007 10:25,,1,FAST FMS,96,Detector or Ramp Meter- "A",515007191,Off-Ramp, I-515 SB to  Charleston Boulevard,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/02/2007 10:25,,1,FAST FMS,102,Detector or Ramp Meter- "A",515007324,On-Ramp, Eastern Avenue to  I-515 SB,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/02/2007 10:25,,1,FAST FMS,298,Detector or Ramp Meter- "A",1002,Las Vegas Boulevard and Stewart,FAST FMS,FAST FMS,CLARK COUNTY
+08/02/2007 10:25,,1,FAST FMS,81,Detector or Ramp Meter- "A",015004328,On-Ramp, D Street to  I-15 SB,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/02/2007 10:25,,1,FAST FMS,334,Detector or Ramp Meter- "A",CCTV37,Desert Inn and Valley View,FAST FMS,FAST FMS,FAST FMS
+08/02/2007 10:25,,1,FAST FMS,94,Detector or Ramp Meter- "A",015104485,I-15 NB  between I-15 NB  Lake Mead EB Off-Ramp and I-15 NB Lake Mead WB Off-Ramp,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/02/2007 10:25,,1,FAST FMS,233,Detector or Ramp Meter- "A",015004272,Interchange, I-515 NB to  I-15 SB near I-515 NB and I-15 SB,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/02/2007 10:25,,1,FAST FMS,297,Detector or Ramp Meter- "A",1032,Las Vegas Boulevard and Lake Mead,FAST FMS,FAST FMS,OTHER PUBLIC
+08/02/2007 10:25,,1,FAST FMS,299,Detector or Ramp Meter- "A",1029,Las Vegas Boulevard and US-95,FAST FMS,FAST FMS,CLARK COUNTY
+08/02/2007 10:25,,1,FAST FMS,300,Detector or Ramp Meter- "A",1015,Tropicana and Las Vegas Boulevard,FAST FMS,FAST FMS,FAST AMS
+08/02/2007 10:25,,1,FAST FMS,301,Detector or Ramp Meter- "A",1020,Sahara and Las Vegas Boulevard,FAST FMS,FAST FMS,FAST AMS
+08/02/2007 10:25,,1,FAST FMS,302,Detector or Ramp Meter- "A",1008,Flamingo and Las Vegas Boulevard,FAST FMS,FAST FMS,FAST AMS
+08/02/2007 10:25,,1,FAST FMS,303,Detector or Ramp Meter- "A",1044,Sahara and Jones,FAST FMS,FAST FMS,FAST AMS
+08/02/2007 10:25,,1,FAST FMS,304,Detector or Ramp Meter- "A",1035,Sahara and Rainbow,FAST FMS,FAST FMS,FAST AMS
+08/02/2007 10:25,,1,FAST FMS,305,Detector or Ramp Meter- "A",1042,Lake Mead and Boulder Highway,FAST FMS,FAST FMS,CITY OF HENDERSON
+08/02/2007 10:25,,1,FAST FMS,306,Detector or Ramp Meter- "A",1023,Charleston and Rainbow,FAST FMS,FAST FMS,CLARK COUNTY
+08/02/2007 10:25,,1,FAST FMS,307,Detector or Ramp Meter- "A",1034,Lake Mead and Civic Center,FAST FMS,FAST FMS,OTHER PUBLIC
+08/02/2007 10:25,,1,FAST FMS,308,Detector or Ramp Meter- "A",1017,Flamingo and Decatur,FAST FMS,FAST FMS,FAST AMS
+08/02/2007 10:25,,1,FAST FMS,309,Detector or Ramp Meter- "A",1027,US-95 and Decatur,FAST FMS,FAST FMS,CLARK COUNTY
+08/02/2007 10:25,,1,FAST FMS,310,Detector or Ramp Meter- "A",1047,Sahara and Rancho,FAST FMS,FAST FMS,CLARK COUNTY
+08/02/2007 10:25,,1,FAST FMS,311,Detector or Ramp Meter- "A",1018,Desert Inn and Rainbow,FAST FMS,FAST FMS,FAST AMS
+08/02/2007 10:25,,1,FAST FMS,312,Detector or Ramp Meter- "A",1007,Charleston and US-95,FAST FMS,FAST FMS,FAST AMS
+08/02/2007 10:25,,1,FAST FMS,313,Detector or Ramp Meter- "A",1003,Flamingo and Boulder Highway,FAST FMS,FAST FMS,FAST AMS
+08/02/2007 10:25,,1,FAST FMS,314,Detector or Ramp Meter- "A",1030,Eastern and US-95,FAST FMS,FAST FMS,CLARK COUNTY
+08/02/2007 10:25,,1,FAST FMS,315,Detector or Ramp Meter- "A",1009,Las Vegas Boulevard and Convention Center,FAST FMS,FAST FMS,FAST AMS
+08/02/2007 10:25,,1,FAST FMS,316,Detector or Ramp Meter- "A",1010,Las Vegas Boulevard and Oakey,FAST FMS,FAST FMS,CLARK COUNTY
+08/02/2007 10:25,,1,FAST FMS,317,Detector or Ramp Meter- "A",1011,Las Vegas Boulevard and Charleston,FAST FMS,FAST FMS,CLARK COUNTY
+08/02/2007 10:25,,1,FAST FMS,318,Detector or Ramp Meter- "A",1025,Charleston and Grand Central Prkwy,FAST FMS,FAST FMS,CLARK COUNTY
+08/02/2007 10:25,,1,FAST FMS,319,Detector or Ramp Meter- "A",1024,Charleston and Rancho,FAST FMS,FAST FMS,CLARK COUNTY
+08/02/2007 10:25,,1,FAST FMS,254,Detector or Ramp Meter- "A",515107506,On-Ramp, Casino Center Boulevard to  I-515 NB,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/02/2007 10:25,,1,FAST FMS,321,Detector or Ramp Meter- "A",1001,Main and Fremont,FAST FMS,FAST FMS,CLARK COUNTY
+08/02/2007 10:25,,1,FAST FMS,322,Detector or Ramp Meter- "A",1022,Charleston and Decatur,FAST FMS,FAST FMS,CLARK COUNTY
+08/02/2007 10:25,,1,FAST FMS,324,Detector or Ramp Meter- "A",1026,US-95 and Jones,FAST FMS,FAST FMS,CLARK COUNTY
+08/02/2007 10:25,,1,FAST FMS,325,Detector or Ramp Meter- "A",1028,US-95 and Rancho,FAST FMS,FAST FMS,CLARK COUNTY
+08/02/2007 10:25,,1,FAST FMS,326,Detector or Ramp Meter- "A",1046,Sahara and Decatur,FAST FMS,FAST FMS,FAST AMS
+08/02/2007 10:25,,1,FAST FMS,327,Detector or Ramp Meter- "A",1033,Cheyenne and I-15,FAST FMS,FAST FMS,OTHER PUBLIC
+08/02/2007 10:25,,1,FAST FMS,328,Detector or Ramp Meter- "A",1045,Sahara and Valley View,FAST FMS,FAST FMS,CLARK COUNTY
+08/02/2007 10:25,,1,FAST FMS,329,Detector or Ramp Meter- "A",1064,Desert Inn and Paradise,FAST FMS,FAST FMS,FAST AMS
+08/02/2007 10:25,,1,FAST FMS,330,Detector or Ramp Meter- "A",1005,Charleston and Fremont,FAST FMS,FAST FMS,FAST AMS
+08/02/2007 10:25,,1,FAST FMS,331,Detector or Ramp Meter- "A",1014,Tropicana and Paradise,FAST FMS,FAST FMS,FAST AMS
+08/02/2007 10:25,,1,FAST FMS,332,Detector or Ramp Meter- "A",1004,US-95 and Boulder Highway,FAST FMS,FAST FMS,FAST AMS
+08/02/2007 10:25,,1,FAST FMS,333,Detector or Ramp Meter- "A",1021,Sahara and Eastern,FAST FMS,FAST FMS,FAST AMS
+08/02/2007 10:25,,1,FAST FMS,277,Detector or Ramp Meter- "A",,Jean I-15 SB,FAST FMS,FAST FMS,FAST FMS
+08/02/2007 10:25,,1,FAST FMS,101,Detector or Ramp Meter- "A",TBS22,NB I-515 Off Ramp at Eastern,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/02/2007 10:25,,1,FAST FMS,278,Detector or Ramp Meter- "A",CCTV 104,I-15 NB near I-215,FAST FMS,FAST FMS,FAST FMS
+08/02/2007 10:25,,1,FAST FMS,253,Detector or Ramp Meter- "A",515107478,On-Ramp, Las Vegas Boulevard to  I-515 NB,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/02/2007 10:25,,1,FAST FMS,118,Detector or Ramp Meter- "A",515107541,Interchange, I-515 NB to  I-15 SB near I-515 NB and I-15 SB,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/02/2007 10:25,,1,FAST FMS,35,Detector or Ramp Meter- "A",015103813,Off-Ramp, I-15 NB to  Flamingo Road,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/02/2007 10:25,,1,FAST FMS,320,Detector or Ramp Meter- "A",1031,Las Vegas Boulevard and Washington,FAST FMS,FAST FMS,FAST FMS
+08/02/2007 10:25,,1,FAST FMS,252,Detector or Ramp Meter- "A",515107350,On-Ramp, Eastern Avenue to  I-515 NB,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/02/2007 10:25,,1,FAST FMS,16,Detector or Ramp Meter- "A",015103599,Off-Ramp, I-15 NB to  Russell Road,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/02/2007 10:25,,1,FAST FMS,77,Detector or Ramp Meter- "A",015104246,Interchange, I-15 NB to  US-95 NB near I-15 NB and US-95 NB,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/02/2007 10:25,,1,FAST FMS,13,Detector or Ramp Meter- "A",015103546,I-15 NB  between I-215 WB to I-15 NB Ramp and I-15 NB Russell Off-Ramp,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/02/2007 10:25,,1,FAST FMS,21,Detector or Ramp Meter- "A",015103661,On-Ramp, Russell Road to  I-15 NB,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/02/2007 10:25,,1,FAST FMS,27,Detector or Ramp Meter- "A",015103753,On-Ramp, Tropicana Avenue to  I-15 NB,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/02/2007 10:25,,1,FAST FMS,72,Detector or Ramp Meter- "A",01510171,Off-Ramp, I-15 NB to  Grand Central Parkway,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/02/2007 10:25,,1,FAST FMS,250,Detector or Ramp Meter- "A",015003816,On-Ramp, Flamingo Road to  I-15 SB,FAST FMS,FAST FMS,FAST FMS
+08/02/2007 10:25,,1,FAST FMS,279,Detector or Ramp Meter- "A",015004040,I-15 SB  between I-15 SB Sahara Off-Ramp and I-15 SB Sahara On-Ramp,FAST FMS,FAST FMS,FAST FMS
+08/02/2007 10:25,,1,FAST FMS,280,Detector or Ramp Meter- "A",015103661,On-Ramp, Russell Road to  I-15 NB,FAST FMS,FAST FMS,FAST FMS
+08/02/2007 10:25,,1,FAST FMS,224,Detector or Ramp Meter- "A",CCTV39,Rainbow and Westcliff,FAST FMS,FAST FMS,FAST FMS
+08/02/2007 10:25,,1,FAST FMS,282,Detector or Ramp Meter- "A",90,I-515 SB  between I-515 SB Eastern On-Ramp and I-515 SB Charleston Off-Ramp,FAST FMS,FAST FMS,FAST FMS
+08/02/2007 10:25,,1,FAST FMS,288,Detector or Ramp Meter- "A",test CCTV,test CCTV loc,FAST FMS,FAST FMS,FAST FMS
+09/21/2007 12:02,,1,FAST FMS,11,Detector or Ramp Meter- "A",015003501,I-15 SB  between I-215 WB to I-15 SB Ramp and I-215 EB to I-15 SB Ramp,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+09/21/2007 11:56,,1,FAST FMS,23,Detector or Ramp Meter- "A",015103698,I-15 NB  between I-15 NB Russell On-Ramp and I-15 NB Tropicana Off-Ramp,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/02/2007 10:25,,1,FAST FMS,113,Trailblazer (Pole Mounted),T023,NB Las Vegas Boulevard,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,125,Trailblazer (Pole Mounted),T027,I-215 WB Off-Ramp to Las Vegas Boulevard,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,126,Trailblazer (Pole Mounted),T028,NB Las Vegas Boulevard at Russell Road,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,127,Trailblazer (Pole Mounted),T029,EB Russell at Las Vegas Boulevard,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,128,Trailblazer (Pole Mounted),T030,WB Russell at Valley View,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,129,Trailblazer (Pole Mounted),T031,EB Russell at Valley View,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,130,Trailblazer (Pole Mounted),T032,SB Valley View at Russell,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,131,Trailblazer (Pole Mounted),T033,WB Tropicana at Valley View,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,132,Trailblazer (Pole Mounted),T034,NB Valley View at Tropicana,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,133,Trailblazer (Pole Mounted),T035,WB Russell at Decatur,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,134,Trailblazer (Pole Mounted),T036,NB Decatur at Russell,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,135,Trailblazer (Pole Mounted),T037,SB Decatur at Russell,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,136,Trailblazer (Pole Mounted),T038,WB Tropicana at Decatur,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,137,Trailblazer (Pole Mounted),T039,NB Decatur at Tropicana,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,138,Trailblazer (Pole Mounted),T040,EB Tropicana at Decatur,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,139,Trailblazer (Pole Mounted),T041,SB Decatur at Tropicana,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,140,Trailblazer (Pole Mounted),T042,WB Tropicana at Industrial,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,141,Trailblazer (Pole Mounted),T043,SB Industrial at Tropicana,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,142,Trailblazer (Pole Mounted),T044,NB Industrial at Hotel Rio,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,143,Trailblazer (Pole Mounted),T045,EB Hotel Rio at Industrial,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,144,Trailblazer (Pole Mounted),T046,WB Flamingo at Hotel Rio,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,145,Trailblazer (Pole Mounted),T047,WB Flamingo at Valley View,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,146,Trailblazer (Pole Mounted),T048,WB Flamingo at Decatur,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,147,Trailblazer (Pole Mounted),T049,NB Decatur at Flamingo,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,148,Trailblazer (Pole Mounted),T050,EB Flamingo at Decatur,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,149,Trailblazer (Pole Mounted),T051,SB Decatur at Flamingo,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,150,Trailblazer (Pole Mounted),T052,WB Spring Mountain at Decatur,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,151,Trailblazer (Pole Mounted),T053,NB Decatur at Spring Mountain,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,152,Trailblazer (Pole Mounted),T054,EB Spring Mountain at Decatur,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,153,Trailblazer (Pole Mounted),T055,SB Decatur at Spring Mountain,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,154,Trailblazer (Pole Mounted),T056,WB Spring Mountain at Valley View,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,155,Trailblazer (Pole Mounted),T057,NB Valley View at Spring Mountain,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,156,Trailblazer (Pole Mounted),T058,SB Valley View at Spring Mountain,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,157,Trailblazer (Pole Mounted),T059,WB Sahara at Valley View,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,158,Trailblazer (Pole Mounted),T060,NB Valley View at Sahara,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,159,Trailblazer (Pole Mounted),T061,SB Valley View at Sahara,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,160,Trailblazer (Pole Mounted),T062,WB Sahara at Decatur,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,161,Trailblazer (Pole Mounted),T063,NB Decatur at Sahara,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,162,Trailblazer (Pole Mounted),T064,EB Sahara at Decatur,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,163,Trailblazer (Pole Mounted),T065,SB Decatur at Sahara,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,164,Trailblazer (Pole Mounted),T066,WB Charleston at Decatur,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,165,Trailblazer (Pole Mounted),T067,NB Decatur at Charleston,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,166,Trailblazer (Pole Mounted),T068,EB Charleston at Decatur,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,167,Trailblazer (Pole Mounted),T069,SB Decatur at Charleston,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,168,Trailblazer (Pole Mounted),T070,WB Charleston at Valley View,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,169,Trailblazer (Pole Mounted),T071,NB Valley View at Charleston,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,170,Trailblazer (Pole Mounted),T072,EB Charleston at Valley View,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,171,Trailblazer (Pole Mounted),T073,WB Charleston at Rancho,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,172,Trailblazer (Pole Mounted),T074,EB Charleston at Rancho,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,173,Trailblazer (Pole Mounted),T122,US-95 NB Off-Ramp to Decatur,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,174,Trailblazer (Pole Mounted),T125,SB Decatur at US-95,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,175,Trailblazer (Pole Mounted),T123,US-95 SB Off-Ramp to Decatur,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,176,Trailblazer (Pole Mounted),T124,NB Decatur at US-95,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,177,Trailblazer (Pole Mounted),T075,WB Charleston at Martin Luther King,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,178,Trailblazer (Pole Mounted),T076,EB Charleston at Martin Luther King,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,179,Trailblazer (Pole Mounted),T078,WB Charleston at Grand Central,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,180,Trailblazer (Pole Mounted),T079,EB Charleston at I-15 NB Off-Ramp,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,181,Trailblazer (Pole Mounted),T080,SB Grand Central at Charleston,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,182,Trailblazer (Pole Mounted),T081,WB Charleston at Las Vegas Boulevard,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,183,Trailblazer (Pole Mounted),T082,EB Charleston at Las Vegas Boulevard,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,184,Trailblazer (Pole Mounted),T083,WB Charleston at Maryland,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,185,Trailblazer (Pole Mounted),T084,EB Charleston at Maryland,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,186,Trailblazer (Pole Mounted),T085,EB Charleston at Eastern,NDOT,NDOT,NDOT
+08/02/2007 10:25,,1,FAST FMS,187,Trailblazer (Pole Mounted),T086,SB Eastern at Charleston,NDOT,NDOT,NDOT
+07/06/2009 11:29,,1,FAST FMS,542,Detector or Ramp Meter- "A",DETI15N433,I 15 NB SOUTH OF D ST,FAST FMS,FAST FMS,FAST FMS
+09/08/2009 14:17,,1,FAST FMS,489,Detector or Ramp Meter- "A",CTV095S07783,US 95 SB VALLEY VIEW,FAST FMS,FAST FMS,FAST FMS
+09/08/2009 14:18,,1,FAST FMS,488,Detector or Ramp Meter- "A",CTV095S07858,US 95 SB DECATUR,FAST FMS,FAST FMS,FAST FMS
+09/08/2009 14:46,,1,FAST FMS,471,Detector or Ramp Meter- "A",CTV095N07605 B,US 95 NB MLK,FAST FMS,FAST FMS,FAST FMS
+10/01/2009 22:17,,1,FAST FMS,39,Detector or Ramp Meter- "A",015004410,I-15 SB  between I-15 SB Lake Mead EB On-Ramp and I-15 SB Washington Off-Ramp,FAST FMS,FAST FMS,FAST FMS
+03/20/2010 17:18,,1,FAST FMS,455,Detector or Ramp Meter- "A",DETI15S43.3B,I-15 SB D Street,FAST FMS,FAST FMS,FAST FMS
+03/20/2010 17:30,,1,FAST FMS,457,Detector or Ramp Meter- "A",DETI15S43.7B/DETI15S43.7C,I-15 NB Washington,FAST FMS,FAST FMS,FAST FMS
+03/20/2010 17:42,,1,FAST FMS,458,Detector or Ramp Meter- "A",DETI15S44.6B,I-15 SB Lake Mead Blvd,FAST FMS,FAST FMS,FAST FMS
+08/20/2010 13:44,,1,FAST FMS,34,Detector or Ramp Meter- "A",15003795-15,I-15 SB at Sahara,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+09/02/2010 09:00,,1,FAST FMS,4,Detector or Ramp Meter- "A",215101238,I-215 WB East of Decatur,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+09/02/2010 09:06,,1,FAST FMS,3,Detector or Ramp Meter- "A",215101263,I-215 WB Decatur Off-Ramp,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+09/02/2010 09:11,,1,FAST FMS,7,Detector or Ramp Meter- "A",215101176,I-215 WB  from I-15 SB Ramp,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+09/02/2010 09:12,,1,FAST FMS,9,Detector or Ramp Meter- "A",215101139,I-215 WB to I-15 SB Ramp,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+03/11/2011 05:56,,1,FAST FMS,119,Detector or Ramp Meter- "A",015004291,I-15 SB at US95 Ramps (CCTV300),FAST FMS,FAST FMS,FAST FMS
+03/11/2011 06:02,,1,FAST FMS,45,Detector or Ramp Meter- "A",015003933,I-15 SB Spring Mtn Off,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+11/08/2011 13:32,,1,FAST FMS,546,Detector or Ramp Meter- "A",DMS095N07700,US 95 NB RANCHO,FAST FMS,FAST FMS,FAST FMS
+07/08/2010 13:04,,1,FAST FMS,10,Detector or Ramp Meter- "A",15103480,I-15 NB South of I-215 (Analog) WZ,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/27/2010 05:45,,1,FAST FMS,14,Detector or Ramp Meter- "A",15003581,I-15 SB  at Patrick (Analog),FAST FMS,FAST FMS,FAST FMS
+08/27/2010 05:46,,1,FAST FMS,22,Detector or Ramp Meter- "A",15003688,I-15 SB  at Hacienda (Analog),CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/27/2010 05:48,,1,FAST FMS,41,Detector or Ramp Meter- "A",15003877,I-15 SB  at Spring Mtn,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/27/2010 05:49,,1,FAST FMS,62,Detector or Ramp Meter- "A",15004095,I-15 NB  at Sahara North,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/27/2010 05:50,,1,FAST FMS,67,Detector or Ramp Meter- "A",15104148,I-15 NB  at Charleston,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+12/16/2010 12:17,,1,FAST FMS,323,Detector or Ramp Meter- "A",957926,I-15 SB Flamingo Off-Ramp (WZ-CMS),FAST FMS,FAST FMS,FAST FMS
+12/16/2010 12:18,,1,FAST FMS,720,Detector or Ramp Meter- "A",957925,I-215 EB East of Jones On-Ramp (WZ-CMS),FAST FMS,FAST FMS,FAST FMS
+01/20/2011 11:13,,1,FAST FMS,728,Detector or Ramp Meter- "A",DS at WZ4,I-15 NB WZ4 between Warm Springs and Robindale Rd,FAST FMS,FAST FMS,FAST FMS
+01/20/2011 11:14,,1,FAST FMS,729,Detector or Ramp Meter- "A",DS at WZ5,I-15 NB WZ5 I-15/215 interchange at Dual CLD NB,FAST FMS,FAST FMS,FAST FMS
+01/20/2011 11:15,,1,FAST FMS,730,Detector or Ramp Meter- "A",DS at WZ6,I-15 NB WZ6 at DMS 13,FAST FMS,FAST FMS,FAST FMS
+01/20/2011 11:17,,1,FAST FMS,731,Detector or Ramp Meter- "A",DS at WZ7,I-15 NB WZ7 S of Russel,FAST FMS,FAST FMS,FAST FMS
+01/20/2011 11:20,,1,FAST FMS,732,Detector or Ramp Meter- "A",DS at WZ8,I-15 NB WZ8 between Hacienda and Russell,FAST FMS,FAST FMS,FAST FMS
+01/20/2011 11:21,,1,FAST FMS,733,Detector or Ramp Meter- "A",DS at WZ9,I-15 NB WZ9 between Hacienda and Trop,FAST FMS,FAST FMS,FAST FMS
+01/27/2011 11:38,,1,FAST FMS,12,Detector or Ramp Meter- "A",15103545-13,I-15 SB at Harmon,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+01/27/2011 11:45,,1,FAST FMS,18,Detector or Ramp Meter- "A",15003644-14,I-15 NB at Desert Inn,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+01/27/2011 11:45,,1,FAST FMS,76,Detector or Ramp Meter- "A",15004222-17,I-15 SB at Bonneville,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+01/19/2010 09:56,,1,FAST FMS,60,Detector or Ramp Meter- "A",01503686,I-15 SB Hacienda,FAST FMS,FAST FMS,FAST FMS
+01/26/2010 11:35,,1,FAST FMS,287,Detector or Ramp Meter- "A",DMS,I-15 SB Carey,FAST FMS,FAST FMS,FAST FMS
+01/26/2010 12:02,,1,FAST FMS,88,Detector or Ramp Meter- "A",15104398-18,I-15 NB Owens Avenue,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+01/26/2010 12:03,,1,FAST FMS,567,Detector or Ramp Meter- "A",DMS44,I-15 NB Gowan,FAST FMS,FAST FMS,FAST FMS
+01/26/2010 12:04,,1,FAST FMS,568,Detector or Ramp Meter- "A",DMS45,I-15 SB Alexander,FAST FMS,FAST FMS,FAST FMS
+02/08/2010 12:41,,1,FAST FMS,30,Detector or Ramp Meter- "A",15103777-2,I-215 WB at Valley View,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+02/10/2010 13:09,,1,FAST FMS,57,Detector or Ramp Meter- "A",01503645,I-15 SB Russell Off,FAST FMS,FAST FMS,FAST FMS
+02/15/2011 15:52,,1,FAST FMS,92,Detector or Ramp Meter- "A",515107189,I-15  Lake Mead S,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+04/27/2011 07:40,,1,FAST FMS,8,Detector or Ramp Meter- "A",215001162,I-215 EB to I-15 SB Ramp,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+04/27/2011 07:42,,1,FAST FMS,6,Detector or Ramp Meter- "A",215001200,I-215 EB at Hinson,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+05/18/2011 09:49,,1,FAST FMS,741,Detector or Ramp Meter- "A",DMS 49,US-93SB after 147,FAST FMS,FAST FMS,FAST FMS
+05/18/2011 09:50,,1,FAST FMS,722,Detector or Ramp Meter- "A",DMS,US-95SB at 163 (Laughlin turnoff),FAST FMS,FAST FMS,FAST FMS
+05/18/2011 09:51,,1,FAST FMS,719,Detector or Ramp Meter- "A",957941,I-15 NB South Of Blue Diamond (WZ-CMS),FAST FMS,FAST FMS,FAST FMS
+05/18/2011 09:51,,1,FAST FMS,281,Detector or Ramp Meter- "A",DMS 23,US-95 NB and Kyle Canyon Rd.,FAST FMS,FAST FMS,FAST FMS
+05/18/2011 09:51,,1,FAST FMS,352,Detector or Ramp Meter- "A",,Rte 159 SB before Blue Diamond Rd,FAST FMS,FAST FMS,FAST FMS
+05/18/2011 09:52,,1,FAST FMS,271,Detector or Ramp Meter- "A",DMS,I-15 NB South of Blue Diamond,FAST FMS,FAST FMS,FAST FMS
+05/25/2011 05:29,,1,FAST FMS,655,Detector or Ramp Meter- "A",ISS Test Det,I-215 EB  between I-215 EB Decatur On-Ramp and I-215 EB to I-15 SB Ramp ISS TEST DET,FAST FMS,FAST FMS,FAST FMS
+05/26/2011 10:09,,1,FAST FMS,109,Detector or Ramp Meter- "A",515007404-20,I-515 SB at 14th Street,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+03/03/2010 14:14,,1,FAST FMS,528,Detector or Ramp Meter- "A",DET095S08635,US 95SB/ N RANCHO,FAST FMS,FAST FMS,FAST FMS
+03/03/2010 14:17,,1,FAST FMS,520,Detector or Ramp Meter- "A",DET095N08122,US 95 WASHINGTON NB,FAST FMS,FAST FMS,FAST FMS
+05/05/2011 08:21,,1,FAST FMS,19,Detector or Ramp Meter- "A",21501238,I-215 WB CCTV 501,FAST FMS,FAST FMS,FAST FMS
+05/09/2011 06:37,,1,FAST FMS,1,Detector or Ramp Meter- "A",215001267,I-215 EB Decatur On-Ramp,CITY OF LAS VEGAS,FAST FMS,CITY OF LAS VEGAS
+06/22/2011 08:03,,1,FAST FMS,587,Detector or Ramp Meter- "A",DETI15S46.6B/DETI15S46.6C,I-15 SB on Cheyenne Bridge,NDOT,NDOT,NDOT
+06/23/2011 06:23,,1,FAST FMS,351,Detector or Ramp Meter- "A",DMS 6,WB BLUE DIAMOND RD 159 JUNCTION,FAST FMS,FAST FMS,FAST FMS
+06/23/2011 07:52,,1,FAST FMS,460,Detector or Ramp Meter- "A",US-93 NB at Boulder City,US-93 NB at Boulder City,FAST FMS,FAST FMS,FAST FMS
+06/23/2011 08:01,,1,FAST FMS,451,Detector or Ramp Meter- "A",Eastern and Coronado,Eastern and Coronado,FAST FMS,FAST FMS,FAST FMS
+07/25/2011 16:44,,1,FAST FMS,594,Detector or Ramp Meter- "A",DETI15S48.5B,I-15 SB Craig WB RM,NDOT,NDOT,NDOT
+07/25/2011 17:10,,1,FAST FMS,5,Detector or Ramp Meter- "A",215101229-12 test,I-15 NB  at Tropicana,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/18/2011 06:57,,1,FAST FMS,459,Detector or Ramp Meter- "A",US-95 at Search Light,US-95 at Search Light,FAST FMS,FAST FMS,FAST FMS
+08/18/2011 07:47,,1,FAST FMS,269,Detector or Ramp Meter- "A",,US95 SB at Railroad Pass,FAST FMS,FAST FMS,FAST FMS
+08/23/2011 13:58,,1,FAST FMS,50,Detector or Ramp Meter- "A",15103980-16,I-15 NB  at Oakey,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+04/04/2011 14:23,,1,FAST FMS,637,Detector or Ramp Meter- "A",WT DS X3,I-215 WB  at Decatur WT DS X3,FAST FMS,FAST FMS,FAST FMS
+04/04/2011 14:23,,1,FAST FMS,649,Detector or Ramp Meter- "A",WT DS X3 - 2,I-215 WB  west of Decatur WT DS X3 - 2,FAST FMS,FAST FMS,FAST FMS
+08/31/2011 11:33,,1,FAST FMS,273,Detector or Ramp Meter- "A",DMS,US-95 SB, South of Cheyenne,FAST FMS,FAST FMS,FAST FMS
+09/07/2011 14:47,,1,FAST FMS,65,Detector or Ramp Meter- "A",15104113-3,I-15 NB at Sunset,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+09/14/2011 12:18,,1,FAST FMS,363,Detector or Ramp Meter- "A",,I15 NB@Jean,FAST FMS,FAST FMS,FAST FMS
+09/16/2011 12:50,,1,FAST FMS,75,Detector or Ramp Meter- "A",15004206,I-15 SB at Bonneville,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+10/18/2011 11:23,,1,FAST FMS,353,Detector or Ramp Meter- "A",,EB HWY 160 Just East of Pahrump,FAST FMS,FAST FMS,FAST FMS
+10/25/2011 10:49,,1,FAST FMS,272,Detector or Ramp Meter- "A",DMS,EB Summerlin Parkway, West of Buffalo Drive,FAST FMS,FAST FMS,FAST FMS
+07/29/2010 10:30,,1,FAST FMS,51,Detector or Ramp Meter- "A",15003995-11,I-15 SB at Patrick,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/13/2010 14:04,,1,FAST FMS,40,Detector or Ramp Meter- "A",015003853,I-15 SB Flamingo Off,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/13/2010 14:06,,1,FAST FMS,48,Detector or Ramp Meter- "A",015003972,I-15 SB Sirius,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/13/2010 14:07,,1,FAST FMS,49,Detector or Ramp Meter- "A",0150103971,I-15 NB DMS 16,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/13/2010 14:08,,1,FAST FMS,58,Detector or Ramp Meter- "A",015104047,I-15 NB Sahara Off,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/13/2010 14:10,,1,FAST FMS,63,Detector or Ramp Meter- "A",015104107,I-15 NB CCTV 112,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/13/2010 14:11,,1,FAST FMS,71,Detector or Ramp Meter- "A",015004167,I-15 SB Charleston Off,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/17/2010 09:44,,1,FAST FMS,55,Detector or Ramp Meter- "A",015004040,I-15 SB Sahara RM,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/17/2010 09:45,,1,FAST FMS,66,Detector or Ramp Meter- "A",015004139,I-15 SB Charleston RM,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/17/2010 09:47,,1,FAST FMS,64,Detector or Ramp Meter- "A",015004112,I-15 SB Oakey,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/17/2010 09:48,,1,FAST FMS,29,Detector or Ramp Meter- "A",015003758,I-15 SB Tropicana Off,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/17/2010 09:52,,1,FAST FMS,44,Detector or Ramp Meter- "A",015103929,I-15 NB Spring Mtn WB RM,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/17/2010 09:56,,1,FAST FMS,255,Detector or Ramp Meter- "A",015004139,I-15 SB Charleston,FAST FMS,FAST FMS,FAST FMS
+08/17/2010 09:58,,1,FAST FMS,24,Detector or Ramp Meter- "A",015103929,I-15 NB Spring Mtn WB,FAST FMS,FAST FMS,FAST FMS
+08/17/2010 10:02,,1,FAST FMS,36,Detector or Ramp Meter- "A",15003816,I-15 SB at Flamingo,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/18/2010 09:12,,1,FAST FMS,32,Detector or Ramp Meter- "A",015103782,I-15 NB DMS 02,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/18/2010 09:13,,1,FAST FMS,33,Detector or Ramp Meter- "A",01503849,I-15 NB Flamingo RM,FAST FMS,FAST FMS,FAST FMS
+08/18/2010 09:14,,1,FAST FMS,116,Detector or Ramp Meter- "A",01504072,I-15 NB Sahara RM,FAST FMS,FAST FMS,FAST FMS
+08/18/2010 09:15,,1,FAST FMS,74,Detector or Ramp Meter- "A",015104198,I-15 NB Bonneville,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/18/2010 09:15,,1,FAST FMS,43,Detector or Ramp Meter- "A",015103910,I-15 NB Spring Mtn EB RM,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/18/2010 09:19,,1,FAST FMS,59,Detector or Ramp Meter- "A",015004057,I-15 SB Sahara Off,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/18/2010 09:20,,1,FAST FMS,53,Detector or Ramp Meter- "A",015003997,I-15 SB DMS 11,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/18/2010 09:22,,1,FAST FMS,31,Detector or Ramp Meter- "A",015003781,I-15 SB Harmon,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/18/2010 09:23,,1,FAST FMS,78,Detector or Ramp Meter- "A",015004250,I-15 SB Bonneville,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+08/18/2010 09:33,,1,FAST FMS,295,Detector or Ramp Meter- "A",01504072,I-15 NB Sahara Ave,FAST FMS,FAST FMS,FAST FMS
+08/18/2010 12:23,,1,FAST FMS,47,Detector or Ramp Meter- "A",15003941,I-15 SB  at Desert Inn,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+05/03/2012 07:53,,1,FAST FMS,656,Detector or Ramp Meter- "A",DMS 54,I-515/US-95 SB  @ Sahara,FAST FMS,FAST FMS,FAST FMS
+05/03/2012 13:44,,1,FAST FMS,99,Detector or Ramp Meter- "A",515107290-19,I-515 NB at Mojave,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+05/23/2012 09:57,,1,FAST FMS,1000,Detector or Ramp Meter- "A",ctv515s07112,I-515SB at Wyoming,FAST FMS,FAST FMS,FAST FMS
+05/23/2012 10:10,,1,FAST FMS,1002,Detector or Ramp Meter- "A",ctv515s07012,I-515 SB  Boulder Hwy off,FAST FMS,FAST FMS,FAST FMS
+05/23/2012 10:31,,1,FAST FMS,1004,Detector or Ramp Meter- "A",ctv515s0696,I-515 SB  Desert Inn,FAST FMS,FAST FMS,FAST FMS
+05/23/2012 10:37,,1,FAST FMS,1005,Detector or Ramp Meter- "A",det515s06917,I-515 SB N of Twain,FAST FMS,FAST FMS,FAST FMS
+06/13/2012 06:33,,1,FAST FMS,392,Detector or Ramp Meter- "A",rmp515s07144,I-515 SB Charleston,FAST FMS,FAST FMS,FAST FMS
+06/13/2012 06:33,,1,FAST FMS,393,Detector or Ramp Meter- "A",rmp515n07011,I-515 NB  Boulder Hwy,FAST FMS,FAST FMS,FAST FMS
+06/13/2012 06:34,,1,FAST FMS,394,Detector or Ramp Meter- "A",rmp515s06997,I-515 SB  Boulder Hwy,FAST FMS,FAST FMS,FAST FMS
+06/13/2012 06:34,,1,FAST FMS,396,Detector or Ramp Meter- "A",rmp515n06855,I-515 NB Flamingo WB,FAST FMS,FAST FMS,FAST FMS
+06/13/2012 06:35,,1,FAST FMS,397,Detector or Ramp Meter- "A",rmp515n06837,I-515 NB Flamingo EB,FAST FMS,FAST FMS,FAST FMS
+06/13/2012 06:35,,1,FAST FMS,398,Detector or Ramp Meter- "A",rmp515s06836,I-515 SB Flamingo EB,FAST FMS,FAST FMS,FAST FMS
+06/13/2012 06:36,,1,FAST FMS,399,Detector or Ramp Meter- "A",rmp515n06764,I-515 NB Tropicana,FAST FMS,FAST FMS,FAST FMS
+06/13/2012 06:47,,1,FAST FMS,998,Detector or Ramp Meter- "A",rmp515n07175,I-515NB  Charleston RM,FAST FMS,FAST FMS,FAST FMS
+06/13/2012 06:47,,1,FAST FMS,999,Detector or Ramp Meter- "A",rmp515s07144,I-515SB  Charleston RM,FAST FMS,FAST FMS,FAST FMS
+06/13/2012 06:48,,1,FAST FMS,1001,Detector or Ramp Meter- "A",rmp515n07011,I-515 NB  Bouler Hwy RM,FAST FMS,FAST FMS,FAST FMS
+06/13/2012 06:48,,1,FAST FMS,1003,Detector or Ramp Meter- "A",rmp515s06997,I-515 SB Boulder Hwy RM,FAST FMS,FAST FMS,FAST FMS
+06/13/2012 06:49,,1,FAST FMS,1006,Detector or Ramp Meter- "A",rmp515s06863,I-515 SB  Flamingo RM W to S,FAST FMS,FAST FMS,FAST FMS
+06/13/2012 06:49,,1,FAST FMS,1007,Detector or Ramp Meter- "A",rmp515n06855,I-515 NB  Flamingo RM W to N,FAST FMS,FAST FMS,FAST FMS
+06/13/2012 06:50,,1,FAST FMS,1008,Detector or Ramp Meter- "A",rmp515n06837,I-515 NB Flamingo RM E to N,FAST FMS,FAST FMS,FAST FMS
+06/13/2012 06:51,,1,FAST FMS,1010,Detector or Ramp Meter- "A",rmp515n06764,I-515 NB  Tropicana RM,FAST FMS,FAST FMS,FAST FMS
+11/08/2011 14:39,,1,FAST FMS,512,Detector or Ramp Meter- "A",DET095N07703,US 95 NB RANCHO,FAST FMS,FAST FMS,FAST FMS
+11/08/2011 14:40,,1,FAST FMS,364,Detector or Ramp Meter- "A",DET095N07703,US 95 NB Rancho on,FAST FMS,FAST FMS,FAST FMS
+11/09/2011 10:01,,1,FAST FMS,544,Detector or Ramp Meter- "A",DMS095N07586,US 95 NB MLK,FAST FMS,FAST FMS,FAST FMS
+11/09/2011 10:02,,1,FAST FMS,545,Detector or Ramp Meter- "A",DMS095N07614,US 95 NB I 15 NB OFF RAMP,FAST FMS,FAST FMS,FAST FMS
+11/09/2011 10:05,,1,FAST FMS,498,Detector or Ramp Meter- "A",DMS095S07793,US 95 SB VALLEY VIEW,FAST FMS,FAST FMS,FAST FMS
+11/09/2011 10:05,,1,FAST FMS,496,Detector or Ramp Meter- "A",DMS095N07900,US 95 NB JONES,FAST FMS,FAST FMS,FAST FMS
+11/09/2011 10:09,,1,FAST FMS,514,Detector or Ramp Meter- "A",DET095N07917,US 95 JONES OFF NB,FAST FMS,FAST FMS,FAST FMS
+11/09/2011 10:10,,1,FAST FMS,513,Detector or Ramp Meter- "A",DET095N07824,US 95 DECATUR OFF NB,FAST FMS,FAST FMS,FAST FMS
+11/09/2011 10:11,,1,FAST FMS,517,Detector or Ramp Meter- "A",DET095S07851A,US 95 DECATUR ON SB BTW OFF AND ON RAMP,FAST FMS,FAST FMS,FAST FMS
+11/09/2011 10:14,,1,FAST FMS,242,Detector or Ramp Meter- "A",515107527,I-515 NB  between Casino Ctr On-Ramp and I-15 SB Ramp,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+11/09/2011 10:20,,1,FAST FMS,504,Detector or Ramp Meter- "A",DET095S07885,US 95 DECATUR SB,FAST FMS,FAST FMS,FAST FMS
+11/09/2011 10:26,,1,FAST FMS,508,Detector or Ramp Meter- "A",DETN9507865,US 95 DECATUR NB,FAST FMS,FAST FMS,FAST FMS
+11/10/2011 14:30,,1,FAST FMS,497,Detector or Ramp Meter- "A",DMS095S07937,US 95 SB JONES,FAST FMS,FAST FMS,FAST FMS
+01/12/2012 10:45,,1,FAST FMS,97,Detector or Ramp Meter- "A",CCTV 406,I-515 NB at Pecos,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+01/13/2012 10:43,,1,FAST FMS,920,Detector or Ramp Meter- "A",AC Sub 1,I-215 EB  between I-215 and Las Vegas Blvd,FAST FMS,FAST FMS,FAST FMS
+01/25/2012 14:06,,1,FAST FMS,929,Detector or Ramp Meter- "A",Det HD 125,I-215 EB  between I-215 EB Decatur Off-Ramp and I-215 EB Decatur On-Ramp,FAST FMS,FAST FMS,FAST FMS
+01/25/2012 14:10,,1,FAST FMS,930,Detector or Ramp Meter- "A",Det HD 125,I-215 WB Jones Off,FAST FMS,FAST FMS,FAST FMS
+02/07/2012 08:10,,1,FAST FMS,274,Detector or Ramp Meter- "A",DMS,I-515 NB at Mountain Vista,FAST FMS,FAST FMS,FAST FMS
+02/21/2012 07:50,,1,FAST FMS,54,Detector or Ramp Meter- "A",15004014,I-15 SB  at Sahara South,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+02/22/2012 13:54,,1,FAST FMS,742,Detector or Ramp Meter- "A",DMS 50,US-93SB NV side @ Dam Bridge,FAST FMS,FAST FMS,FAST FMS
+02/22/2012 13:55,,1,FAST FMS,743,Detector or Ramp Meter- "A",DMS 51,US-93NB AZ side @ Dam Bridge,FAST FMS,FAST FMS,FAST FMS
+02/22/2012 13:56,,1,FAST FMS,744,Detector or Ramp Meter- "A",DMS 52,US-93NB AZ mile marker3,FAST FMS,FAST FMS,FAST FMS
+03/14/2012 14:24,,1,FAST FMS,286,Detector or Ramp Meter- "A",Craig-Jones,EB Craig at Jones,FAST FMS,FAST FMS,FAST FMS
+04/11/2012 10:16,,1,FAST FMS,285,Detector or Ramp Meter- "A",Range Rd,SB Las Vegas Blvd at Range Rd,FAST FMS,FAST FMS,FAST FMS
+05/02/2012 12:18,,1,FAST FMS,239,Detector or Ramp Meter- "A",515007560,I-515 SB CCTV 400 Turtles,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+05/02/2012 12:23,,1,FAST FMS,111,Detector or Ramp Meter- "A",515007452,I-515 behind Hub 05,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+05/02/2012 12:25,,1,FAST FMS,110,Detector or Ramp Meter- "A",515007415,I-515 SB  13th Steet,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+05/02/2012 12:28,,1,FAST FMS,120,Detector or Ramp Meter- "A",515007386,I-515 SB CCTV 404,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+05/02/2012 12:31,,1,FAST FMS,107,Detector or Ramp Meter- "A",515107350,I-515 NB Eastern RM 6,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+05/02/2012 12:36,,1,FAST FMS,98,Detector or Ramp Meter- "A",515007277,I-515 SB Mojave,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+05/02/2012 12:39,,1,FAST FMS,238,Detector or Ramp Meter- "A",515107317,I-515 NB  28th Street CCTV405,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+05/02/2012 12:40,,1,FAST FMS,108,Detector or Ramp Meter- "A",515107243,I-515 NB Pecos CCTV 406,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+05/02/2012 12:43,,1,FAST FMS,95,Detector or Ramp Meter- "A",515107189,I-515 NB Charleston cctv 407,CITY OF LAS VEGAS,CITY OF LAS VEGAS,CITY OF LAS VEGAS
+05/03/2012 07:51,,1,FAST FMS,276,Detector or Ramp Meter- "A",DMS,I-515 NB, South of Sahara,FAST FMS,FAST FMS,FAST FMS

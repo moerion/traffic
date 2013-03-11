@@ -1,0 +1,379 @@
+#container  
+	#top
+		img(src="http://nutc.unlv.edu/templates/rhuk_milkyway/images/newlogo.jpg")
+	#header
+
+		#headerBlock
+		
+			if (status == true)
+				form(action='/index/Logoff', method='POST')
+						#userName
+							small user
+						#Submit
+							input(type='submit', value='Logoff')
+
+			h1(style="float:left;") Traffic Flow Data
+		
+			<!-- h2(style="width:80%;float:left;padding-top:30px;text-align:left")= " " //-->
+		
+			<!-- Dropdown Menu
+			ul#coolMenu
+				li Item One
+					ul
+						li 
+							a(href="/") Subitem One
+						li 
+							a(href="/") Subitem Two
+				li Item Two
+				li Item Three //-->
+			.clear
+	
+			a.buttonTop(href="/index/Home") Home
+
+			a.buttonTop(href="/agencies/Agencies") Agencies
+
+			a.buttonTop(href="/types/DataTypes") Data Types
+
+			a.buttonTop(href="/upload/UploadData") Upload Data
+	
+	#menu
+		if (group == "index")
+	
+			a.button(href="/index/AboutUs") About Us
+	
+			a.button(href="/index/ContactUs") Contact Us
+
+			a.button(href="/index/LogIn") Log In
+		
+		else if (group == "agencies")
+		
+			a.button(href="/agencies/FAST") FAST			
+
+			a.button(href="/agencies/LasVegas") Las Vegas
+		
+			a.button(href="/agencies/NorthLasVegas") North Las Vegas
+				
+			a.button(href="/agencies/Henderson") Henderson
+
+			a.button(href="/agencies/ClarkCounty") Clark County
+
+			a.button(href="/agencies/NDOT") NDOT
+
+			a.button(href="/agencies/RTC") RTC
+
+		else if (group == "types")
+
+			a.button(href="/types/Freeways&Arterials") Freeways & Arterials
+		
+			a.button(href="/types/Intersections") Intersections
+		
+			a.button(href="/types/ChangeableMessageSigns&RampMeters") Changeable Message Signs & Ramp Meters			
+
+			a.button(href="/types/LaneRestrictions&IncidentLogs") Lane Restrictions & Incident Logs
+
+		else if (group == 'upload')
+
+			a.button(href="/upload/Upload") Upload Files
+
+			a.button(href="/upload/MyUploads") My Uploads
+
+			a.button(href="/upload/Settings") Account Settings
+		
+		else if (group == 'queries')
+
+			
+		
+	#content
+		if (page == "Home")
+			p Welcome to the Traffic Flow Data site.
+
+			p Here you will be able to find all of the centralized traffic data for the Southern Nevada area.
+		
+		else if (page == "AboutUs")
+			p This site is developed and maintained by the Transportation Research Center (TRC) based out of the University of Nevada, Las Vegas.
+
+		else if (page == "ContactUs")
+			p You may contact us by emailing Neveen Shlayan at neveenshlayan@gmail.com
+
+		else if (page == "LogIn")
+
+			if (status == true)
+				p You have already logged in!
+
+			else
+				form(action='/index/Success', method='POST')
+					#userName
+						label(for='UserName') Login
+						input(type='text', name='userName')
+					#password
+						label(for='Password') Password
+						input(type='password', name='password')
+					#Submit
+						input(type='submit') Login
+
+		else if (page == "Success")
+			p You have successfully logged in!
+
+		else if (page == "Fail")
+			p Your attempt to log in has failed.
+
+		else if (page == "LoggedIn")
+			p You have already logged in!
+		
+		else if (page == "Agencies")
+			p You may browse through the collected data by choosing an agency.
+
+		else if (page == "DataTypes")
+			p You may browse through the collected data by choosing a data type.
+
+		else if (page == "LasVegas")
+			p Data provided by the city of Las Vegas:
+
+			p Turning Movements:
+
+			a.button(href="/data/Bonanza & Tonopah TM 0407.xls") Bonanza & Tonopah
+
+			br
+			br
+
+			p Traffic Volume:
+
+			a.button(href="/data/BONANZA @ TONOPAH VOL 0511.xls") Bonanza & Tonopah
+
+		else if (page == "NorthLasVegas")
+			p Data provided by the city of North Las Vegas:
+
+			p Turning Movements:
+
+			a.button(href="/data/Ann-Allen120407.pdf") Bonanza & Tonopah
+
+		else if (page == "Henderson")
+			p Data provided by the city of Henderson:
+
+			p Unfortunately, we have yet to receive any data from the city of Henderson.
+
+		else if (page == "FAST")
+			p Data provided by FAST:
+
+			a.button(href="http://rtcsnv.com/mpo/fast/dashboard.cfm", target="_blank") Dashboard
+
+			br
+			br
+
+			a.button(href="http://bugatti.nvfast.org/PMMS/Detectors.aspx", target="_blank") Sensors	
+
+			br
+			br		
+
+			a.button(href="http://bugatti.nvfast.org/PMMS/CCTVs.aspx", target="_blank") Cameras
+				
+			br
+			br
+	
+			a.button(href="http://bugatti.nvfast.org/PMMS/CCTVSnapshotWall.aspx", target="_blank") Snapshots
+
+			br
+			br
+
+			a.button(href="http://bugatti.nvfast.org/PMMS/DMSs.aspx", target="_blank") DMS
+
+			br
+			br
+
+			a.button(href="http://bugatti.nvfast.org/PMMS/BluetoothSensors.aspx", target="_blank") Bluetooth
+
+		else if (page == "Freeways&Arterials")
+			p Data collected on freeways and arterial roads:
+			
+			ul
+				li.block
+					a(href="http://rtcsnv.com/mpo/fast/dashboard.cfm") Freeway Traffic Flow
+
+					br
+
+					small Download freeway traffic flow data which includes volume, speed and occupancy data by lane, date and interval.
+			
+				li.block
+					a(href="/queries/ReferencingSystemRoadways") Referencing System Roadways
+
+					br
+
+					small Downloadable table of all the link data that corresponds to the roadways throughout the Las Vegas Valley.  Can be useful in referencing the location of a traffic count.
+
+		else if (page == "Intersections")
+			p Data collected on road instersections:
+			
+			ul
+				li.block
+					a(href="/queries/TimingPlan") Timing Plan Implementation
+
+					br
+
+					small Download signal data including the implemented timing plan for a given time period.
+			
+				li.block
+					a(href="/queries/TurningMovement") Turning Movement Data 
+
+					br
+
+					small Download the turning movement volumes for a given intersection.
+
+				li.block
+					a(href="/data/ADUS/AMSStaticTimeplanQueryOutput17200.csv") Static Intersection Timing Plans 
+
+					br
+
+					small Download the specifics of a timing plan for a given intersection.
+
+				li.block
+					a(href="/data/ADUS/AMSStaticPhaseQueryOutput17214.csv") Static Intersection Phasing 
+				
+					br
+
+					small Download the specfics of a phase for a given timing plan at an intersection.
+
+				li.block
+					a(href="/queries/ReferencingSystemIntersections") Referencing System Intersection Data 
+				
+					br
+
+					small Downloadable table of all the intersection data that corresponds to the roadways throughout the Las Vegas Valley.  Can be useful in referencing the intersections to the roadways when viewing signal configuration or turning movement data.
+		
+		else if (page == "ChangeableMessageSigns&RampMeters")
+			p Data collected on dynamic message signs, trailblazers, and ramp meters:
+
+			ul
+				li.block
+					a(href="/data/ADUS/MSGSignQueryOutput17251664.csv") DMS and Trailblazer Messages
+				
+					br
+
+					small Download Dynamic Message Sign (DMS) & Trailblazer  Sign messages on a selected roadway during a specified time period.
+
+				li.block
+					a(href="/data/ADUS/RampMeterQueryOutput1755942.csv") Ramp Meter Data
+
+					br
+
+					small Download ramp meter data on a selected roadway during a specified time period.
+
+		else if (page == "LaneRestrictions&IncidentLogs")
+			p Data collected on lane restrictions and incident logs:			
+
+			ul
+				li.block
+					a(href="/queries/LaneRestrictions") Lane Restriction Data
+				
+					br
+
+					small Download lane restriction data for a roadway based on date.
+
+				li.block
+					a(href="/queries/Incidents") Incident Data
+
+					br
+
+					small Download incident logs for a roadway based on date.
+
+		
+		else if (page == "UploadData")
+			p Here you can upload files, view your upload history and manage your account settings.
+
+		else if (page == "Upload")
+			if (status == false)
+				p You need to log in before you can upload files.
+			else
+
+				p Choose file(s) to upload:
+
+				br
+
+			
+				form(action="/upload/Done", enctype="multipart/form-data", method="post")
+
+					input(type="file", name="upload", multiple="multiple")
+
+					input(type="submit", value="Upload")
+
+		else if (page == "Done")
+			p Upload Complete
+		
+		else if (page == "MyUploads")
+			if (status == false)
+				p You need to log in to see your upload history.
+			else
+				p Here is your upload history:
+
+		else if (page == "Settings")
+			if (status == false)
+				p You need to log in to change your settings.
+			else
+				p Settings:
+
+		else if (page == "TurningMovement")
+			if (status == false)
+				p You need to log in to query the database.
+			else
+				
+				form(action="/queries/Post", method="post")
+
+					label Intersection: 
+				
+						select(name="intersection")
+							option(value='All') All
+
+							each i in isections
+								option(value='#{i}') #{i}
+					br
+
+					label Before: 
+				
+						select(name="before")
+							option(value='All') All
+
+							each i in times
+								option(value='#{i}') #{i}
+					br
+
+					label After: 
+				
+						select(name="after")
+							option(value='All') All
+
+							each i in times
+								option(value='#{i}') #{i}
+					br
+
+					label Agency: 
+				
+						select(name="agency")
+							option(value='All') All
+
+							each i in agencies
+								option(value='#{i}') #{i}
+
+					br
+			
+					input(type="hidden", value="TurnMovement", name="type")
+	
+					input(type="submit", value="Submit")
+		else if (page == "Post")
+			p Here are your query results:
+			
+			a.button(href="/data/out.csv") Download
+	#related
+
+		if (group == "index")
+
+			h2 RELATED
+
+			a(href="http://www.nvfast.org/", target="_blank")
+				img(style="width:300px;margin-bottom:15px;", src="http://ntl.bts.gov/lib/jpodocs/repts_te/13635/image002.gif", name="FAST", alt="FAST")
+
+			a(href="http://www.nevadadot.com/", target="_blank")
+				img(style="width:300px;margin-bottom:15px;", src="http://www.clan.lib.nv.us/loheaders/ndot%20logo.jpg", name="NDOT", alt="NDOT")
+
+			a(href="http://www.rtcsouthernnevada.com/", target="_blank")
+				img(style="width:300px;", src="http://upload.wikimedia.org/wikipedia/en/8/88/RTC_white_logo.png", name="RTC", alt="RTC")
+
+	.clear

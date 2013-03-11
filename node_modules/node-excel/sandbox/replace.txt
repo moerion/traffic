@@ -1,0 +1,23 @@
+== To generate list of public function definitions==
+
+Search												Replace
+=======												========
+
+@	function @										@self.@
+@}@															@@
+@console.log('Cell function: @	@ = @
+@ incomplete');@								@;@
+@() {\r\n\t\t@									@@
+@\r\n\t\r\n@										@@
+
+
+
+== Generate mocha test skeletons ==
+
+Search												Replace
+=======												========
+
+@function @										@describe('#@
+@}@														@});@
+@() {@												@()', function() {@
+@console\.log\('[a-zA-Z].*@		@it('todo');@

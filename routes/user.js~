@@ -1,0 +1,8 @@
+
+/*
+ * GET home page.
+ */
+
+exports.user4 = function(req, res){
+  res.render('user', { title: 'Based World', user: '12'})
+};		
