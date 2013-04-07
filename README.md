@@ -7,3 +7,5 @@ The app is designed to work with mongoDB in order to store and query the data  s
 The login and authorization process is still not yet complete but is somewhat responsive to user input.
 
 A an older version of the app without a database can be seen live at http://trc.unlv.edu:3000/
+
+Funding for the project during development and the project had to be dropped before completion.
